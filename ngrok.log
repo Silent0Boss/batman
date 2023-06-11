@@ -1,0 +1,51 @@
+t=2023-06-11T19:01:46+0000 lvl=info msg="no configuration paths supplied"
+t=2023-06-11T19:01:46+0000 lvl=info msg="using configuration at default config path" path=/home/u/.config/ngrok/ngrok.yml
+t=2023-06-11T19:01:46+0000 lvl=info msg="open config file" path=/home/u/.config/ngrok/ngrok.yml err=nil
+t=2023-06-11T19:01:46+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+t=2023-06-11T19:01:47+0000 lvl=info msg="client session established" obj=tunnels.session obj=csess id=cc22d2bb8081
+t=2023-06-11T19:01:47+0000 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-06-11T19:01:47+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8080 url=https://2038-185-15-38-54.ngrok-free.app
+t=2023-06-11T19:04:19+0000 lvl=info msg="join connections" obj=join id=cfd3f9a63363 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:19+0000 lvl=info msg="join connections" obj=join id=5c0d14bf40eb l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=e8bf8c8cdb90 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=1d39ffadfde2 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=e4b1a02eef52 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=0faa4b440168 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=4886cb113edc l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=e16b4e7ac56e l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=98aa7488d69c l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=a6693c650f25 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=cdb68e0a612f l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=26bf61871071 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=4bfd4c210080 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=b3ad25be908d l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=df33ae14add3 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=fab793d11049 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=9ebd6688a820 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=87baf8a84f8d l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=9ffe2fcfd3b9 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=3664f503a632 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=1bf96813e22d l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=91f8c07b7715 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=15d6fed69d76 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=789ac9e7596d l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=f2220e47145a l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=70ff9ad8f039 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:28+0000 lvl=info msg="join connections" obj=join id=792f6be275b1 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:29+0000 lvl=info msg="join connections" obj=join id=46d343059ce4 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:29+0000 lvl=info msg="join connections" obj=join id=5704777ff95d l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:29+0000 lvl=info msg="join connections" obj=join id=2777e796a8b5 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:29+0000 lvl=info msg="join connections" obj=join id=5601365ec74a l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:29+0000 lvl=info msg="join connections" obj=join id=1db2a0b19633 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:29+0000 lvl=info msg="join connections" obj=join id=dc54832a1043 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:29+0000 lvl=info msg="join connections" obj=join id=abbfad248796 l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:29+0000 lvl=info msg="join connections" obj=join id=1c89b105fd2b l=127.0.0.1:8080 r=185.15.38.54:4315
+t=2023-06-11T19:04:40+0000 lvl=info msg="join connections" obj=join id=99b120edd070 l=127.0.0.1:8080 r=185.15.38.54:10759
+t=2023-06-11T19:04:40+0000 lvl=info msg="join connections" obj=join id=61265b94131a l=127.0.0.1:8080 r=185.15.38.54:10759
+t=2023-06-11T19:04:45+0000 lvl=info msg="join connections" obj=join id=5e3273b27db6 l=127.0.0.1:8080 r=185.15.38.54:10804
+t=2023-06-11T19:04:45+0000 lvl=info msg="join connections" obj=join id=d912d24ef69e l=127.0.0.1:8080 r=185.15.38.54:10804
+t=2023-06-11T19:06:21+0000 lvl=info msg="join connections" obj=join id=c74474bd1acf l=127.0.0.1:8080 r=185.15.38.54:4295
+t=2023-06-11T19:06:21+0000 lvl=info msg="join connections" obj=join id=9e4d14adba6d l=127.0.0.1:8080 r=185.15.38.54:4295
+t=2023-06-11T19:06:25+0000 lvl=info msg="join connections" obj=join id=425a952e6a00 l=127.0.0.1:8080 r=185.15.38.54:4346
+t=2023-06-11T19:06:25+0000 lvl=info msg="join connections" obj=join id=a87c4464982d l=127.0.0.1:8080 r=185.15.38.54:4346
+t=2023-06-11T19:07:40+0000 lvl=info msg="join connections" obj=join id=ca4fcbf0f436 l=127.0.0.1:8080 r=140.82.115.60:60609
