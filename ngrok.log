@@ -49,3 +49,8 @@ t=2023-06-11T19:06:21+0000 lvl=info msg="join connections" obj=join id=9e4d14adb
 t=2023-06-11T19:06:25+0000 lvl=info msg="join connections" obj=join id=425a952e6a00 l=127.0.0.1:8080 r=185.15.38.54:4346
 t=2023-06-11T19:06:25+0000 lvl=info msg="join connections" obj=join id=a87c4464982d l=127.0.0.1:8080 r=185.15.38.54:4346
 t=2023-06-11T19:07:40+0000 lvl=info msg="join connections" obj=join id=ca4fcbf0f436 l=127.0.0.1:8080 r=140.82.115.60:60609
+t=2023-06-11T19:09:59+0000 lvl=info msg="join connections" obj=join id=f95dc82e0174 l=127.0.0.1:8080 r=140.82.115.109:39379
+t=2023-06-11T19:28:42+0000 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session obj=csess id=24e22a03f2aa clientid=06b3479a5554726226517dc7f9ec018f
+t=2023-06-11T19:28:42+0000 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session obj=csess id=cc22d2bb8081 err="session closed"
+t=2023-06-11T19:28:42+0000 lvl=info msg="client session established" obj=tunnels.session obj=csess id=cc22d2bb8081
+t=2023-06-11T19:28:42+0000 lvl=info msg="tunnel session started" obj=tunnels.session
